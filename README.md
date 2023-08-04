@@ -1,4 +1,4 @@
-<h2 align="center">Hello my name is Vinicius, and I'm from Brazil!</h2>
+<h2 align="center">Vinícius Miranda de Araujo</h2>
 
 - 💡 Estou no 1° período de Ciência da Computação pela PUC Minas.
 - 📜 Atualmente aprendendo C e C++.

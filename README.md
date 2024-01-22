@@ -1,7 +1,7 @@
 <h2 align="center">Vinícius Miranda de Araujo</h2>
 
 - 💡 Estou no 2° período de Ciência da Computação pela PUC Minas.
-- 📜 Atualmente aprendendo C e C++.
+- 📜 Atualmente aprendendo Java.
 - 🔍 Toda ajuda sobre melhoramento de códigos e interfaces é bem-vinda!
 
 ##

@@ -1,38 +1,41 @@
-<h2 align="center">Vinícius Miranda de Araujo</h2>
+# 🥇 Vinícius Miranda de Araújo
 
-- 💡 Estou no 3° período de Ciência da Computação pela PUC Minas.
-<!--- 📜 Atualmente aprendendo Java.-->
-- 🔍 Toda ajuda sobre melhoramento de códigos e interfaces é bem-vinda!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre mim! 
 
-##
+- 🎓 Estudante de Ciência da Computação na PUC MG.
+- 💻 Interessado em desenvolvimento de software, inteligência artificial e ciência de dados.
+- 📚 Comprometido com o aprendizado contínuo e aprimoramento das minhas habilidades técnicas.
+- 📫 Contate-me no email: vinicius123miranda24@gmail.com.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=vinimiraa" height="150"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=vinimiraa" height="150"   />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinimiraa&theme=tokyonight&hide_border=true&background=EB545400" /></p>
-</div>
+## 🧑‍💻 Tech Skills
 
-##
+- 🖥️ Linguagens de Programação: 
 
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"                   height="30" width="42" alt="C logo"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"   height="30" width="42" alt="Cplusplus logo"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"           height="30" width="42" alt="html5 logo"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"             height="30" width="42" alt="css3 logo"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"             height="30" width="42" alt="Java Logo"  /> 
-</div>
+    [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,cs)](https://skillicons.dev)
+  
+- 📚 Frameworks e Bibliotecas: 
 
-##
+    [![My Skills](https://skillicons.dev/icons?i=spring,bootstrap)](https://skillicons.dev)
 
-<div align="center">
-  <a href="https://www.instagram.com/vinimiraa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <!-- <a href="wohsiniv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a> -->
-  <a href="https://www.linkedin.com/in/vinimiraa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+- 🛠️ Ferramentas e Tecnologias: 
+
+    [![My Skills](https://skillicons.dev/icons?i=git,vscode,eclipse,maven,azure,postman,figma)](https://skillicons.dev)
+
+- 🎲 Banco de Dados:
+
+    [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+  
+- 🌐 Desenvolvimento Web:
+
+    [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
+
+## 📂 Projetos
+
+- [Gestão Financeira - VY Finanças](https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20231-tiaw-g03-planejamento-financeiro-2.git): Projeto web para ajudar os usuários a gerenciar suas finanças pessoais, desenvolvido com ferramentas básicas com foco no front-end.
+- [Mobilidade Urbana - MoveSmart](https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-ti2-2024-1-g02-movesmart.git): Projeto web buscando aprimorar da experiência do usuário no transporte público, com foco em desenvolvimento do back-end.
+
+## 🔗 Links
+
+- [LinkedIn](https://www.linkedin.com/in/vinimiraa)
+- [Instagram](https://www.instagram.com/vinimiraa)
+- 📧 Email: [vinicius123miranda24@gmail.com](mailto:vinicius123miranda24@gmail.com)

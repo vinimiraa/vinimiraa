@@ -1,5 +1,3 @@
-# 🥇 Vinícius Miranda de Araújo
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre mim! 
 
 - 🎓 Estudante de Ciência da Computação na PUC MG.
@@ -38,4 +36,3 @@
 
 - [LinkedIn](https://www.linkedin.com/in/vinimiraa)
 - [Instagram](https://www.instagram.com/vinimiraa)
-- 📧 Email: [vinicius123miranda24@gmail.com](mailto:vinicius123miranda24@gmail.com)
